@@ -1,0 +1,40 @@
+Name: Sibusiso
+  Surname: Ndlulu
+  Gender: male
+  age: 18
+  Join date: 13 August 2024
+  contacts: 27633064346
+  status: TWU
+
+Name: Sibahle
+  Surname: Khulane
+  Gender: female
+  age: 25
+  Join date: 30 July 2024
+  contacts: 27734619374
+  status: TWU
+
+Name: Khaya
+  Surname: Tyesi
+  Gender: male
+  age: 17
+  Join date: 3 December 2024
+  contacts: 27675439574
+  status: left
+
+Name: Sisipho
+  Surname: Buzile
+  Gender: female
+  age: 23
+  Join date: 29 June 2024
+  contacts: 27749364925
+  status: TWU
+
+Name: jada
+  Surname: lkazeli
+  Gender: female
+  age: 16
+  Join date: 29 March 2024
+  contacts: 276346789498
+  status: TWU
+
